@@ -9,6 +9,13 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
 
 ---
 
+#### :sparkles: My followers
+
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
+
+---
+
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
