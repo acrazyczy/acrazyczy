@@ -57,9 +57,7 @@ if __name__ == "__main__":
             html += "  <tr>\n"
         html += f'''    <td align="center">
       <a href="https://github.com/{login}">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/{id}" width="100px;" alt="{login}"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/{id}" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="{login}"/>
       </a>
       <br />
       <a href="https://github.com/{login}">{name}</a>
