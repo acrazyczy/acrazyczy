@@ -16,63 +16,49 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
   <tr>
     <td align="center">
       <a href="https://github.com/Marcythm">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/36555123" width="100px;" alt="Marcythm"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/36555123" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="Marcythm"/>
       </a>
       <br />
       <a href="https://github.com/Marcythm">Marcythm</a>
     </td>
     <td align="center">
       <a href="https://github.com/ReFraction334">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/44198739" width="100px;" alt="ReFraction334"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/44198739" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="ReFraction334"/>
       </a>
       <br />
       <a href="https://github.com/ReFraction334">Yi Wang</a>
     </td>
     <td align="center">
       <a href="https://github.com/cmd2001">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/25078724" width="100px;" alt="cmd2001"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/25078724" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="cmd2001"/>
       </a>
       <br />
       <a href="https://github.com/cmd2001">Amagi_Yukisaki</a>
     </td>
     <td align="center">
       <a href="https://github.com/dengwxn">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/34061772" width="100px;" alt="dengwxn"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/34061772" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="dengwxn"/>
       </a>
       <br />
       <a href="https://github.com/dengwxn">Weixin Deng</a>
     </td>
     <td align="center">
       <a href="https://github.com/ywwywwyww">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/36836507" width="100px;" alt="ywwywwyww"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/36836507" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="ywwywwyww"/>
       </a>
       <br />
       <a href="https://github.com/ywwywwyww">Wuwei Yuan</a>
     </td>
     <td align="center">
       <a href="https://github.com/XOR-op">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/17672363" width="100px;" alt="XOR-op"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/17672363" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="XOR-op"/>
       </a>
       <br />
       <a href="https://github.com/XOR-op">XOR-op</a>
     </td>
     <td align="center">
       <a href="https://github.com/cong258258">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/40522050" width="100px;" alt="cong258258"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/40522050" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="cong258258"/>
       </a>
       <br />
       <a href="https://github.com/cong258258">Zhou Cong</a>
@@ -81,63 +67,49 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
   <tr>
     <td align="center">
       <a href="https://github.com/xmhuangzhen">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/58294401" width="100px;" alt="xmhuangzhen"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/58294401" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="xmhuangzhen"/>
       </a>
       <br />
       <a href="https://github.com/xmhuangzhen">Zhen Huang</a>
     </td>
     <td align="center">
       <a href="https://github.com/IvyCharon">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/57755823" width="100px;" alt="IvyCharon"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/57755823" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="IvyCharon"/>
       </a>
       <br />
       <a href="https://github.com/IvyCharon">Hanwen Shi</a>
     </td>
     <td align="center">
       <a href="https://github.com/ChrisLiKaiyuan">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/36180750" width="100px;" alt="ChrisLiKaiyuan"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/36180750" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="ChrisLiKaiyuan"/>
       </a>
       <br />
       <a href="https://github.com/ChrisLiKaiyuan">Switch</a>
     </td>
     <td align="center">
       <a href="https://github.com/LibroWu">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/73021519" width="100px;" alt="LibroWu"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/73021519" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="LibroWu"/>
       </a>
       <br />
       <a href="https://github.com/LibroWu">Libro</a>
     </td>
     <td align="center">
       <a href="https://github.com/brandon-yan">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/59162612" width="100px;" alt="brandon-yan"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/59162612" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="brandon-yan"/>
       </a>
       <br />
       <a href="https://github.com/brandon-yan">brandon-yan</a>
     </td>
     <td align="center">
       <a href="https://github.com/RebeccaPan">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/56680456" width="100px;" alt="RebeccaPan"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/56680456" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="RebeccaPan"/>
       </a>
       <br />
       <a href="https://github.com/RebeccaPan">Xinyi Pan</a>
     </td>
     <td align="center">
       <a href="https://github.com/dzx-dzx">
-      <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
-        <img src="https://avatars2.githubusercontent.com/u/31068367" width="100px;" alt="dzx-dzx"/>
-	</div>
+        <img src="https://avatars2.githubusercontent.com/u/31068367" width="100px;" height="100px;" border-radius="100%;" overflow="hidden;" alt="dzx-dzx"/>
       </a>
       <br />
       <a href="https://github.com/dzx-dzx">dzx-dzx</a>
