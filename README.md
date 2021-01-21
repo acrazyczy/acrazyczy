@@ -16,7 +16,7 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
   <tr>
     <td align="center">
       <a href="https://github.com/Marcythm">
-        <img src="https://avatars2.githubusercontent.com/u/36555123" width="100px;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Marcythm"/>
+        <img src="https://avatars2.githubusercontent.com/u/36555123" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="Marcythm"/>
       </a>
       <br />
       <a href="https://github.com/Marcythm">Marcythm</a>
