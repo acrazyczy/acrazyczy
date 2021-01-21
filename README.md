@@ -12,6 +12,9 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ---
