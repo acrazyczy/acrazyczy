@@ -71,13 +71,6 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/xmhuangzhen">
-        <img src="https://avatars2.githubusercontent.com/u/58294401" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="xmhuangzhen"/>
-      </a>
-      <br />
-      <a href="https://github.com/xmhuangzhen">Zhen Huang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/IvyCharon">
         <img src="https://avatars2.githubusercontent.com/u/57755823" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="IvyCharon"/>
       </a>
@@ -85,11 +78,25 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
       <a href="https://github.com/IvyCharon">Hanwen Shi</a>
     </td>
     <td align="center">
+      <a href="https://github.com/xmhuangzhen">
+        <img src="https://avatars2.githubusercontent.com/u/58294401" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="xmhuangzhen"/>
+      </a>
+      <br />
+      <a href="https://github.com/xmhuangzhen">Zhen Huang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ChrisLiKaiyuan">
         <img src="https://avatars2.githubusercontent.com/u/36180750" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ChrisLiKaiyuan"/>
       </a>
       <br />
       <a href="https://github.com/ChrisLiKaiyuan">Switch</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rUKAoss">
+        <img src="https://avatars2.githubusercontent.com/u/74503773" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="rUKAoss"/>
+      </a>
+      <br />
+      <a href="https://github.com/rUKAoss">Xander</a>
     </td>
     <td align="center">
       <a href="https://github.com/LibroWu">
@@ -111,13 +118,6 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
       </a>
       <br />
       <a href="https://github.com/RebeccaPan">Xinyi Pan</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dzx-dzx">
-        <img src="https://avatars2.githubusercontent.com/u/31068367" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="dzx-dzx"/>
-      </a>
-      <br />
-      <a href="https://github.com/dzx-dzx">dzx-dzx</a>
     </td>
   </tr>
 </table>
