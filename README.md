@@ -106,18 +106,18 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
       <a href="https://github.com/ChrisLiKaiyuan">Switch</a>
     </td>
     <td align="center">
+      <a href="https://github.com/dzx-dzx">
+        <img src="https://avatars2.githubusercontent.com/u/31068367" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="dzx-dzx"/>
+      </a>
+      <br />
+      <a href="https://github.com/dzx-dzx">dzx-dzx</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/brandon-yan">
         <img src="https://avatars2.githubusercontent.com/u/59162612" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="brandon-yan"/>
       </a>
       <br />
       <a href="https://github.com/brandon-yan">brandon-yan</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RebeccaPan">
-        <img src="https://avatars2.githubusercontent.com/u/56680456" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="RebeccaPan"/>
-      </a>
-      <br />
-      <a href="https://github.com/RebeccaPan">Xinyi Pan</a>
     </td>
   </tr>
 </table>
