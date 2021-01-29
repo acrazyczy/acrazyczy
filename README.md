@@ -129,11 +129,11 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
 
 <!--START_SECTION:waka-->
 ```text
-TeX      3 hrs 34 mins   ██████████▓░░░░░░░░░░░░░░   42.13 % 
-Python   2 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.80 % 
-Go       58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-JSON     29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Other    18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+TeX      6 hrs 33 mins   ███████████████▓░░░░░░░░░   62.04 % 
+Python   2 hrs 55 mins   ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+Other    32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+JSON     29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 <!--END_SECTION:waka-->
 
