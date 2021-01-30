@@ -27,18 +27,18 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
       <a href="https://github.com/Marcythm">Marcythm</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ReFraction334">
-        <img src="https://avatars2.githubusercontent.com/u/44198739" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ReFraction334"/>
-      </a>
-      <br />
-      <a href="https://github.com/ReFraction334">Yi Wang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/cmd2001">
         <img src="https://avatars2.githubusercontent.com/u/25078724" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="cmd2001"/>
       </a>
       <br />
       <a href="https://github.com/cmd2001">Amagi_Yukisaki</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ReFraction334">
+        <img src="https://avatars2.githubusercontent.com/u/44198739" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ReFraction334"/>
+      </a>
+      <br />
+      <a href="https://github.com/ReFraction334">Yi Wang</a>
     </td>
     <td align="center">
       <a href="https://github.com/dengwxn">
@@ -85,13 +85,6 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
       <a href="https://github.com/xmhuangzhen">Zhen Huang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rUKAoss">
-        <img src="https://avatars2.githubusercontent.com/u/74503773" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="rUKAoss"/>
-      </a>
-      <br />
-      <a href="https://github.com/rUKAoss">Xander</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ChrisLiKaiyuan">
         <img src="https://avatars2.githubusercontent.com/u/36180750" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="ChrisLiKaiyuan"/>
       </a>
@@ -106,18 +99,25 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
       <a href="https://github.com/LibroWu">Libro</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dzx-dzx">
-        <img src="https://avatars2.githubusercontent.com/u/31068367" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="dzx-dzx"/>
-      </a>
-      <br />
-      <a href="https://github.com/dzx-dzx">dzx-dzx</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/brandon-yan">
         <img src="https://avatars2.githubusercontent.com/u/59162612" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="brandon-yan"/>
       </a>
       <br />
       <a href="https://github.com/brandon-yan">brandon-yan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RebeccaPan">
+        <img src="https://avatars2.githubusercontent.com/u/56680456" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="RebeccaPan"/>
+      </a>
+      <br />
+      <a href="https://github.com/RebeccaPan">Xinyi Pan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dzx-dzx">
+        <img src="https://avatars2.githubusercontent.com/u/31068367" width="auto;" height="100px;" style="border-radius:100%;" overflow="hidden;" alt="dzx-dzx"/>
+      </a>
+      <br />
+      <a href="https://github.com/dzx-dzx">dzx-dzx</a>
     </td>
   </tr>
 </table>
