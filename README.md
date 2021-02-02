@@ -129,8 +129,8 @@ I'm Ziyi Cai, an undergraduate student studying in SJTU.
 
 <!--START_SECTION:waka-->
 ```text
-TeX     6 hrs 33 mins   ████████████████░░░░░░░░░   64.13 % 
-Other   3 hrs 39 mins   █████████░░░░░░░░░░░░░░░░   35.83 % 
+TeX     6 hrs 33 mins   ███████████████░░░░░░░░░░   59.64 % 
+Other   4 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   40.32 % 
 ```
 <!--END_SECTION:waka-->
 
