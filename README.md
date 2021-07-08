@@ -10,7 +10,7 @@
 I'm Ziyi Cai, an undergraduate student studying in SJTU.
 
 -   :hammer_and_pick: C++/Pascal/Markdown/LaTeX, a little bit Python3/Go/Java/Verilog
--   :pencil2: Windows 10 / WSL / Sublime Text 3 / JetBrains / VS Code
+-   :pencil2: Windows 11 / Arch Linux / WSL / Sublime Text 3 / JetBrains / VS Code
 
 ---
 
